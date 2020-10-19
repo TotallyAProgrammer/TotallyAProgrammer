@@ -9,6 +9,7 @@ I've built my own scalable, high capacity, enterprise level network that powers 
 Along with that I have experience with Docker, Kubernetes, ESXI, and Xen. Though I am constantly experimenting and growing my knowledge on everything.
 
 ### Unknown Technology Solutions
+[<img alt="UTS Site Status" src="https://img.shields.io/website?down_color=red&down_message=offline&label=UTS%20Site&up_color=blue&up_message=online&url=https%3A%2F%2Funknownts.tk">](https://unknownts.tk)
 
 Check out @Unknown-Technology-Solutions ! Unknown Technology Solutions is my side-project tech startup. Based in Omaha, Nebraska, we have access to countless resources and are an extremely capable technology solutions provider. Cloud, hosting, security testing, you name it and we will see what we can do!
 
