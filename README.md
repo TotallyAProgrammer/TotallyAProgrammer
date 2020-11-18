@@ -12,6 +12,10 @@ Along with that I have experience with Docker, Kubernetes, ESXI, and Xen. Though
 - 📫 How to reach me: Email me! I'll try and respond, I promise.
 - 😄 Pronouns: He/him/They/Them (Usually prefer They/Them)
 
+Check out my Code::Stats profile, [zane_reick](https://codestats.net/users/zane_reick)! See what languages I'm programming in and how little I sleep!
+
+[<img alt="Code::Stats logo" width="50" height="50" src="https://codestats.net/assets/frontend/images/Logo-92e1d93256eae2d7dde539f1df59b06c.svg?vsn=d">](https://codestats.net/users/zane_reick)
+
 ### Unknown Technology Solutions
 [<img alt="UTS Site Status" src="https://img.shields.io/website?down_color=red&down_message=offline&label=UTS%20Site&up_color=blue&up_message=online&url=https%3A%2F%2Funknownts.tk">](https://unknownts.tk)
 
