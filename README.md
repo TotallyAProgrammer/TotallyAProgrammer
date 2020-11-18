@@ -3,7 +3,7 @@
 GitHub says this thing is ✨ _special_ ✨, so it must be something important!
 
 I'm Zane Reick, a jack of all trades, master of some.
-I have a "special touch" when it comes to programming, systems management, and network management (Big, smol, enterprise, and home!).
+Some say I have a "special touch" when it comes to programming, systems management, and network management (Big, small, enterprise, and home!).
 I have spent countless hours learning the depths of each. I can manage anything given a few hours with it.
 I've built my own scalable, high capacity, enterprise level network that powers all of the things I host.
 Along with that I have experience with Docker, Kubernetes, ESXI, and Xen. Though I am constantly experimenting and growing my knowledge on everything.
