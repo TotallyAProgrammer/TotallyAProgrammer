@@ -6,7 +6,7 @@ I'm Zane Reick, a jack of all trades, master of some.
 Some say I have a "special touch" when it comes to programming, systems management, and network management (Big, small, enterprise, and home!).
 I have spent countless hours learning the depths of each. I can manage anything given a few hours with it.
 I've built my own scalable, high capacity, enterprise level network that powers all of the things I host.
-Along with that I have experience with Docker, Kubernetes, ESXI, and Xen. I am constantly experimenting and growing my knowledge on everything.
+Along with that I have experience with Docker, Kubernetes, ESXI, Xen, and Proxmox (Including HA). I am constantly experimenting and growing my knowledge on everything.
 
 - 💬 Ask me about networking! I'd love to help!
 - 📫 How to reach me: Email me! I'll try and respond, I promise.
